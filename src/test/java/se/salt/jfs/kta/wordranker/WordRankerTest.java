@@ -10,7 +10,7 @@ class WordRankerTest {
 
     @Test
     void shouldRateBrownHighest() {
-        String word = ranker.highestRanking("The quick brown fox");
+        String word = ranker.highestRanking("The quick, brown fox");
         assertEquals("brown", word);
     }
 }
