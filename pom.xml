@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>se.salt.jfs</groupId>
-    <artifactId>jfs-lab-kata-replaceme</artifactId>
+    <artifactId>jfs-lab-kata-wordranker</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
