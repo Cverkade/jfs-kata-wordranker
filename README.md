@@ -14,9 +14,3 @@ For example, The sentence
 ## Tests
 
 We have provided you with a starting point for your unit tests, expand on it.
-
-
-
-## Linting
-
-Use the normal salt rules for linting.
